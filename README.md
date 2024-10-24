@@ -36,5 +36,5 @@
 
 
 
-I love techonoly and I am always opent o learn new frameworks, libraries and programming languages.
+###I love techonoly and I am always opent o learn new frameworks, libraries and programming languages.
 
