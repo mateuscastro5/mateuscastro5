@@ -2,7 +2,7 @@
 ## I am a fullstack and Machine Learning developer 😎
 
 ![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscastro5&show_icons=true&theme=transparent)
-
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscastro5&hide_progress=true)
 
 ## Check this out. I know these technologies...
