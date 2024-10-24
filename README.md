@@ -2,8 +2,6 @@
 ## I am a fullstack and Machine Learning developer 😎
 
 ![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscastro5&show_icons=true&theme=transparent)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscastro5&hide_progress=true)
 
 ## Check this out. I know these technologies...
 
@@ -36,4 +34,5 @@
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
+I love techonoly and I am always opent o learn new frameworks, libraries and programming languages.
 
