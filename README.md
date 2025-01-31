@@ -1,5 +1,5 @@
 # Hey there! I am Mateus. Nice to meet you! 🤓 👋
-## I am a Fullstack developer 😎
+## I like to develop everything, from front, back-end to AI 😎
 
 ![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscastro5&show_icons=true&theme=transparent)
 
