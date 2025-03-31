@@ -1,5 +1,5 @@
 # Hey there! I am Mateus. Nice to meet you! 🤓 👋
-## All in on developer, from front-end to back-end to AI 😎
+## All in one developer, from front-end to back-end to AI 😎
 
 ![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscastro5&show_icons=true&theme=transparent)
 
