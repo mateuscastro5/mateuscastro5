@@ -6,14 +6,13 @@
 
 I turn complex problems into reliable, well-tested systems — mostly backend, but I don't mind crossing into frontend when the project needs it.
 
-**🔭 Currently building:**
-[Artemis](https://theartemis.vercel.app) — a dev performance platform with a dual-LLM + RAG pipeline · **Conecta Safras** at [Safras & Cifras](https://github.com/SafrasECifras-Tec) — a multi-app Turborepo platform
+**🔭 Currently building:** **Conecta Safras** at [Safras & Cifras](https://github.com/SafrasECifras-Tec)
 
 **🌐 More about me:** [my portfolio](https://portfolio-mateus-dev.vercel.app/)
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,fastapi,kotlin,spring,php,laravel,react,nextjs,tailwind,postgres,mysql,docker,aws" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,postgres,docker" alt="Skills" />
 
 <br />
 <br />
