@@ -9,7 +9,7 @@ I turn complex problems into reliable, well-tested systems — mostly backend, b
 **🔭 Currently building:**
 [Artemis](https://theartemis.vercel.app) — a dev performance platform with a dual-LLM + RAG pipeline · **Conecta Safras** at [Safras & Cifras](https://github.com/SafrasECifras-Tec) — a multi-app Turborepo platform
 
-**🌐 More about me:** [my portfolio](https://github.com/mateuscastro5/portfolio)
+**🌐 More about me:** [my portfolio](https://portfolio-mateus-dev.vercel.app/)
 
 <br />
 
@@ -17,9 +17,6 @@ I turn complex problems into reliable, well-tested systems — mostly backend, b
 
 <br />
 <br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=mateuscastro5&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscastro5&layout=compact&theme=transparent&hide_border=true&hide_title=true" alt="Top Languages" height="165" />
 
 <img src="https://streak-stats.demolab.com/?user=mateuscastro5&theme=transparent&hide_border=true" alt="GitHub Streak" />
 
