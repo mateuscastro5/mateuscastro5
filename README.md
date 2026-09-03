@@ -1,27 +1,27 @@
 <div align="center">
+<br />
 
-# Hey, I'm Mateus 👋
+# Mateus
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=A3A3A3&center=true&vCenter=true&width=460&lines=Backend+Engineer;(that+can+build+front+if+needed);Building+Artemis+%26+Conecta+Safras" alt="Typing SVG" />
-
-I turn complex problems into reliable, well-tested systems — mostly backend, but I don't mind crossing into frontend when the project needs it.
-
-**🔭 Currently building:** **Conecta Safras** at [Safras & Cifras](https://github.com/SafrasECifras-Tec)
-
-**🌐 More about me:** [my portfolio](https://portfolio-mateus-dev.vercel.app/)
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=16&pause=2000&color=888888&center=true&vCenter=true&width=420&height=30&lines=Backend+Engineer;that+can+build+front+if+needed" alt="tagline" />
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,postgres,docker" alt="Skills" />
+TypeScript&nbsp;&nbsp;·&nbsp;&nbsp;Node.js&nbsp;&nbsp;·&nbsp;&nbsp;NestJS&nbsp;&nbsp;·&nbsp;&nbsp;React&nbsp;&nbsp;·&nbsp;&nbsp;PostgreSQL&nbsp;&nbsp;·&nbsp;&nbsp;Docker
 
 <br />
 <br />
 
-<img src="https://streak-stats.demolab.com/?user=mateuscastro5&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mateuscastro5&theme=dark&hide_border=true&background=00000000&fire=888888&ring=888888&currStreakNum=E5E4E7&sideNums=E5E4E7&currStreakLabel=888888&sideLabels=888888&dates=666666" />
+  <img src="https://streak-stats.demolab.com/?user=mateuscastro5&theme=default&hide_border=true&background=00000000&fire=888888&ring=888888&currStreakNum=1A1A1A&sideNums=1A1A1A&currStreakLabel=888888&sideLabels=888888&dates=999999" alt="GitHub streak" height="140" />
+</picture>
 
 <br />
+<br />
 
-<a href="https://github.com/mateuscastro5"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-<a href="mailto:mateus.castro2011@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+[Portfolio](https://portfolio-mateus-dev.vercel.app/) &nbsp;·&nbsp; [GitHub](https://github.com/mateuscastro5) &nbsp;·&nbsp; [Email](mailto:mateus.castro2011@gmail.com)
+
+<br />
 
 </div>
