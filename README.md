@@ -1,15 +1,16 @@
 <div align="center">
 <br />
 
-<img src="https://raw.githubusercontent.com/mateuscastro5/portfolio/main/public/avatar.jpg" width="104" alt="Mateus" />
+<sub>mateuscastro5</sub>
 
-<h1>Mateus</h1>
+# Mateus
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=16&pause=2000&color=888888&center=true&vCenter=true&width=420&height=30&lines=Backend+Engineer;that+can+build+front+if+needed" alt="tagline" />
+I like turning complex problems into reliable, well-tested systems — mostly backend, but I'll ship the frontend too when a project needs it.
+Right now I'm building **Conecta Safras** at Safras & Cifras.
 
 <br />
 
-TypeScript&nbsp;&nbsp;·&nbsp;&nbsp;Node.js&nbsp;&nbsp;·&nbsp;&nbsp;NestJS&nbsp;&nbsp;·&nbsp;&nbsp;React&nbsp;&nbsp;·&nbsp;&nbsp;PostgreSQL&nbsp;&nbsp;·&nbsp;&nbsp;Docker
+`TypeScript`  `Node.js`  `NestJS`  `React`  `PostgreSQL`  `Docker`
 
 <br />
 <br />
