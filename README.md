@@ -1,7 +1,9 @@
 <div align="center">
 <br />
 
-# Mateus
+<img src="https://raw.githubusercontent.com/mateuscastro5/portfolio/main/public/avatar.jpg" width="104" alt="Mateus" />
+
+<h1>Mateus</h1>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=16&pause=2000&color=888888&center=true&vCenter=true&width=420&height=30&lines=Backend+Engineer;that+can+build+front+if+needed" alt="tagline" />
 
@@ -20,7 +22,24 @@ TypeScript&nbsp;&nbsp;·&nbsp;&nbsp;Node.js&nbsp;&nbsp;·&nbsp;&nbsp;NestJS&nbsp
 <br />
 <br />
 
-[Portfolio](https://portfolio-mateus-dev.vercel.app/) &nbsp;·&nbsp; [GitHub](https://github.com/mateuscastro5) &nbsp;·&nbsp; [Email](mailto:mateus.castro2011@gmail.com)
+<a href="https://portfolio-mateus-dev.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio" />
+  </picture>
+</a>
+<a href="mailto:mateus.castro2011@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </picture>
+</a>
+<a href="https://wa.me/555397064365">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WhatsApp-ffffff?style=for-the-badge&logo=whatsapp&logoColor=black" />
+    <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </picture>
+</a>
 
 <br />
 
