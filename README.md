@@ -1,7 +1,31 @@
-# Hey there! I am Mateus. Nice to meet you! 🤓 👋
+<div align="center">
 
-![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuscastro5&show_icons=true&theme=transparent)
+# Hey, I'm Mateus 👋
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=A3A3A3&center=true&vCenter=true&width=460&lines=Backend+Engineer;(that+can+build+front+if+needed);Building+Artemis+%26+Conecta+Safras" alt="Typing SVG" />
 
-### I love technology and I am always open to learn new frameworks, libraries and programming languages.
+I turn complex problems into reliable, well-tested systems — mostly backend, but I don't mind crossing into frontend when the project needs it.
 
+**🔭 Currently building:**
+[Artemis](https://theartemis.vercel.app) — a dev performance platform with a dual-LLM + RAG pipeline · **Conecta Safras** at [Safras & Cifras](https://github.com/SafrasECifras-Tec) — a multi-app Turborepo platform
+
+**🌐 More about me:** [my portfolio](https://github.com/mateuscastro5/portfolio)
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,fastapi,kotlin,spring,php,laravel,react,nextjs,tailwind,postgres,mysql,docker,aws" alt="Skills" />
+
+<br />
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=mateuscastro5&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscastro5&layout=compact&theme=transparent&hide_border=true&hide_title=true" alt="Top Languages" height="165" />
+
+<img src="https://streak-stats.demolab.com/?user=mateuscastro5&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
+<br />
+
+<a href="https://github.com/mateuscastro5"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+<a href="mailto:mateus.castro2011@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+
+</div>
