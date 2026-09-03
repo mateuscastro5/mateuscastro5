@@ -1,26 +1,23 @@
 <div align="center">
 <br />
 
-<sub>mateuscastro5</sub>
-
-# Mateus
-
-I like turning complex problems into reliable, well-tested systems — mostly backend, but I'll ship the frontend too when a project needs it.
-Right now I'm building **Conecta Safras** at Safras & Cifras.
-
-<br />
-
-`TypeScript`  `Node.js`  `NestJS`  `React`  `PostgreSQL`  `Docker`
+# Building Robust & Scalable Backends
+<sub>(and frontend too)</sub>
 
 <br />
 <br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mateuscastro5&theme=dark&hide_border=true&background=00000000&fire=888888&ring=888888&currStreakNum=E5E4E7&sideNums=E5E4E7&currStreakLabel=888888&sideLabels=888888&dates=666666" />
-  <img src="https://streak-stats.demolab.com/?user=mateuscastro5&theme=default&hide_border=true&background=00000000&fire=888888&ring=888888&currStreakNum=1A1A1A&sideNums=1A1A1A&currStreakLabel=888888&sideLabels=888888&dates=999999" alt="GitHub streak" height="140" />
-</picture>
+Currently building **Conecta Safras** at [Safras & Cifras](https://github.com/SafrasECifras-Tec)
 
 <br />
+
+```
+TypeScript  ██████████████████  89.7%
+HTML        ██░░░░░░░░░░░░░░░░   4.4%
+Python      ██░░░░░░░░░░░░░░░░   4.0%
+CSS         █░░░░░░░░░░░░░░░░░   1.4%
+```
+
 <br />
 
 <a href="https://portfolio-mateus-dev.vercel.app/">
