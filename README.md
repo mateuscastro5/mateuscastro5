@@ -26,6 +26,12 @@ TypeScript&nbsp;&nbsp;·&nbsp;&nbsp;Node.js&nbsp;&nbsp;·&nbsp;&nbsp;NestJS&nbsp
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio" />
   </picture>
 </a>
+<a href="https://www.linkedin.com/in/mateus-fagundes-122848437">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge" alt="LinkedIn" />
+  </picture>
+</a>
 <a href="mailto:mateus.castro2011@gmail.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-ffffff?style=for-the-badge" />
