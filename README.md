@@ -7,11 +7,6 @@
 
 <br />
 
-TypeScript&nbsp;&nbsp;·&nbsp;&nbsp;Node.js&nbsp;&nbsp;·&nbsp;&nbsp;NestJS&nbsp;&nbsp;·&nbsp;&nbsp;React&nbsp;&nbsp;·&nbsp;&nbsp;PostgreSQL&nbsp;&nbsp;·&nbsp;&nbsp;Docker
-
-<br />
-<br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mateuscastro5&theme=dark&hide_border=true&background=00000000&fire=888888&ring=888888&currStreakNum=E5E4E7&sideNums=E5E4E7&currStreakLabel=888888&sideLabels=888888&dates=666666" />
   <img src="https://streak-stats.demolab.com/?user=mateuscastro5&theme=default&hide_border=true&background=00000000&fire=888888&ring=888888&currStreakNum=1A1A1A&sideNums=1A1A1A&currStreakLabel=888888&sideLabels=888888&dates=999999" alt="GitHub streak" height="140" />
